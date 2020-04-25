@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\bin\Debug\Payroll calculation with Methods.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\bin\Debug\Payroll calculation with Methods.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\bin\Debug\Payroll calculation with Methods.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\obj\Debug\Payroll calculation with Methods.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\obj\Debug\Payroll calculation with Methods.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\obj\Debug\Payroll calculation with Methods.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Payroll calculation with Methods\Payroll calculation with Methods\obj\Debug\Payroll calculation with Methods.pdb
